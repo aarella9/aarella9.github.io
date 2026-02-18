@@ -1,14 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Interesting facts about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is AJ Arellano. I have the following hobbies/skills:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
+- Video Editing and Motion Design
+- Ice Hockey
+- DJ'ing
+  
 What else do you need?
 
 ### My story
