@@ -58,7 +58,7 @@ If you followed the easy method above, then you already have your site and you c
 .gs-section-02 h3 { 
      color: blue }
 
-.gs-section-01 p {
+.gs-section-02 p {
      font-size: 40px;
 }
 
