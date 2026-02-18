@@ -59,15 +59,14 @@ If you followed the easy method above, then you already have your site and you c
      color: blue }
 
 .gs-section-02 p {
-     font-size: 40px;
+     font-size: 35px;
 }
 
 .gs-section-03 h3 { 
      color: green }
 
 .gs-section-03 p {
-     font-size: 50px;
+     font-size: 40px;
 }
-
 
 </style>
